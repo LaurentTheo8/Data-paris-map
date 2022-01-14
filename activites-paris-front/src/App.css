@@ -1,0 +1,27 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;  
+}
+
+.options {
+    height: 10vh;
+    margin : 1em; 
+  
+}
+
+.map {
+    height: 75vh;
+    margin : 1em; 
+    border : black solid 2px;
+}
+
+.leaflet-container{
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}
